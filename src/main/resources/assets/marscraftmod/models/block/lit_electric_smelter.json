@@ -1,0 +1,8 @@
+{
+    "parent": "block/orientable",
+    "textures": {
+        "top": "marscraftmod:blocks/electric_smelter_top",
+        "front": "marscraftmod:blocks/lit_electric_smelter_front",
+        "side": "marscraftmod:blocks/electric_smelter_side"
+    }
+}

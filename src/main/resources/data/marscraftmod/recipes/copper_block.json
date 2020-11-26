@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "III",
+    "III",
+    "III"
+  ],
+  "key": {
+    "I": {
+      "item": "marscraftmod:copper_ingot"
+    }
+  },
+  "result": {
+    "item": "marscraftmod:copper_block"
+  }
+}

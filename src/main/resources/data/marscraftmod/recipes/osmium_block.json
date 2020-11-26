@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "III",
+    "III",
+    "III"
+  ],
+  "key": {
+    "I": {
+      "item": "marscraftmod:osmium_ingot"
+    }
+  },
+  "result": {
+    "item": "marscraftmod:osmium_block"
+  }
+}

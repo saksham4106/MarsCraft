@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "": { "model": "marscraftmod:block/martian_soil" }
+    }
+}

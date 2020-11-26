@@ -1,0 +1,58 @@
+{
+	"block.marscraftmod.martian_rock": "Martian Rock",
+	"block.marscraftmod.martian_soil": "Martian Soil",
+	"block.marscraftmod.martian_cobblerock": "Martian CobbleRock",
+	"block.marscraftmod.dusty_stone": "Dusty Stone",
+	
+	"block.marscraftmod.titanium_ore": "Titanium Ore",
+	"block.marscraftmod.copper_ore": "Copper Ore",
+	"block.marscraftmod.nickel_ore": "Nickel Ore",
+	"block.marscraftmod.zinc_ore": "Zinc Ore",
+	"block.marscraftmod.osmium_ore": "Osmium Ore",
+	"block.marscraftmod.platinum_ore": "platinum_ore",
+	"block.marscraftmod.sapphire_ore": "Sapphire Ore",
+	"block.marscraftmod.silver_ore": "Silver Ore",
+	
+	"block.marscraftmod.titanium_block": "Titanium Block",
+	"block.marscraftmod.copper_block": "Copper Block",
+	"block.marscraftmod.nickel_block": "Nickel Block",
+	"block.marscraftmod.zinc_block": "Zinc Block",
+	"block.marscraftmod.osmium_block": "Osmium Block",
+	"block.marscraftmod.platinum_block": "Platinum Block",
+	"block.marscraftmod.silver_block": "Silver Block",
+	
+	"item.marscraftmod.sapphire": "Sapphire",
+	"item.marscraftmod.titanium_ingot": "Titanium Ingot",
+	"item.marscraftmod.copper_ingot": "Copper Ingot",
+	"item.marscraftmod.nickel_ingot": "Nickel Ingot",
+	"item.marscraftmod.zinc_ingot": "Zinc Ingot",
+	"item.marscraftmod.osmium_ingot": "Osmium Ingot",
+	"item.marscraftmod.platinum_ingot": "Platinum Ingot",
+	"item.marscraftmod.silver_ingot": "Silver Ingot",
+	
+	
+	"item.marscraftmod.titanium_pickaxe": "Titanium Pickaxe",
+	"item.marscraftmod.titanium_axe": "Titanium Axe",
+	"item.marscraftmod.titanium_shovel": "Titanium Shovel",
+	"item.marscraftmod.titanium_sword": "Titanium Sword",
+	"item.marscraftmod.titanium_hoe": "Titanium Hoe",
+	"item.marscraftmod.titanium_paxswel": "Titanium Paxswel",
+	"item.marscraftmod.titanium_hammer": "Titanium Hammer",
+	
+	"item.marscraftmod.osmium_pickaxe": "Osmium Pickaxe",
+	"item.marscraftmod.osmium_axe": "Osmium Axe",
+	"item.marscraftmod.osmium_shovel": "Osmium Shovel",
+	"item.marscraftmod.osmium_sword": "Osmium Sword",
+	"item.marscraftmod.osmium_hoe": "Osmium Hoe",
+	"item.marscraftmod.osmium_paxswel": "Osmium Paxswel",
+	"item.marscraftmod.osmium_hammer": "Osmium Hammer",
+	
+	
+	
+	"block.marscraftmod.electric_smelter": "Electric Smelter",
+	
+	
+	"biome.marscraftmod.mars": "Mars Biome",
+	
+	"itemGroup.marscrafttab": "MarsCraft Tab"
+}

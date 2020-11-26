@@ -1,0 +1,10 @@
+{
+
+	"type": "marscraftmod:electric_smelter",
+	"output": {
+		"item": "marscraftmod:titanium_ingot"
+	},
+	"input": {
+		"item": "marscraftmod:titanium_ore"
+	}
+}

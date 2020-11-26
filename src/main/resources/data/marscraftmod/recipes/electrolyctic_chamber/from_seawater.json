@@ -1,0 +1,28 @@
+{
+
+	"type": "marscraftmod:electrolyctic_chamber",
+	"hydrogen_output": {
+		"item": "marscraftmod:hydrogen_bucket",
+		"count": 4
+	},
+	"oxygen_output": {
+		"item": "marscraftmod:oxygen_bucket",
+		"count" : 2
+	},
+	
+	"chlorine_output": {
+		"item": "marscraftmod:chlorine_bucket",
+		"count": 1
+	},
+	
+	"waste_output": {
+		"item": "marscraftmod:aqeous_sodium",
+		"count": 1
+		
+	},
+	
+	"input": {
+		"item": "marscraftmod:seawater_bucket"
+	}
+
+}

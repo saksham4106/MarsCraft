@@ -1,0 +1,10 @@
+{
+
+	"type": "marscraftmod:electric_smelter",
+	"output": {
+		"item": "minecraft:stone"
+	},
+	"input": {
+		"item": "minecraft:cobblestone"
+	}
+}

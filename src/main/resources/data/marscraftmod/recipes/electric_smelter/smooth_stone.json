@@ -1,0 +1,10 @@
+{
+
+	"type": "marscraftmod:electric_smelter",
+	"output": {
+		"item": "minecraft:smooth_stone"
+	},
+	"input": {
+		"item": "minecraft:stone"
+	}
+}

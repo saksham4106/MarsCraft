@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "III",
+    "III",
+    "III"
+  ],
+  "key": {
+    "I": {
+      "item": "marscraftmod:zinc_ingot"
+    }
+  },
+  "result": {
+    "item": "marscraftmod:zinc_block"
+  }
+}

@@ -1,0 +1,10 @@
+{
+
+	"type": "marscraftmod:electric_smelter",
+	"output": {
+		"item": "marscraftmod:osmium_ingot"
+	},
+	"input": {
+		"item": "marscraftmod:osmium_ore"
+	}
+}

@@ -1,0 +1,10 @@
+{
+
+	"type": "marscraftmod:electric_smelter",
+	"output": {
+		"item": "marscraftmod:silver_ingot"
+	},
+	"input": {
+		"item": "marscraftmod:silver_ore"
+	}
+}
